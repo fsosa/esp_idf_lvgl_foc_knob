@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(where idf.py 2>/dev/null || echo \"not in PATH\")"
+    ]
+  }
+}
